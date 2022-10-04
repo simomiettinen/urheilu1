@@ -155,7 +155,7 @@ console.log(esimerkki.toString()); //ekan esimerkin tuloste
 console.log("");
 
 /*
-  tässä tokassa luokaan suoraan urheilija
+  tässä tokassa luodaan suoraan urheilija
   */
 let esimerkki2 = new urheilija(
   "etunimi2",
